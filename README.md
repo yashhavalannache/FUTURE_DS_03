@@ -61,6 +61,9 @@ FUTURE_DS_03/
 - Perform sentiment analysis on textual feedback  
 - Visualize key trends with charts and graphs  
 - Identify areas for improvement in events  
-- Generate comprehensive reports (`doc.pdf` and `ppt.pdf`)  
+- Generate comprehensive reports (`doc.pdf` and `ppt.pdf`) 
+
+![Feedback Analysis Dashboard](2.%20Images/boxplot.png)
+
 
 <p align="center"> ✨ Maintained by <a href="https://github.com/yashhavalannache">Yash Havalannache</a> ✨ </p>
